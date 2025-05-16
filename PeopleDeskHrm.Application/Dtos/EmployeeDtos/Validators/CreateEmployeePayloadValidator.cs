@@ -2,7 +2,7 @@
 
 namespace PeopleDeskHrm.Application.Dtos.EmployeeDtos.Validators;
 
-internal class CreateEmployeePayloadValidator : AbstractValidator<CreateEmployeePayload>
+public class CreateEmployeePayloadValidator : AbstractValidator<CreateEmployeePayload>
 {
     public CreateEmployeePayloadValidator()
     {
