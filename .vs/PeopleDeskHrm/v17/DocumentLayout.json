@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Own Practice\\New folder\\PeopleDeskHrm\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7227407-1D9E-907A-92DB-CF33E3F89BF2}|PeopleDeskHrm.UnitTest\\PeopleDeskHrm.UnitTest.csproj|d:\\own practice\\new folder\\peopledeskhrm\\peopledeskhrm.unittest\\peopledeskhrm.unittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B7227407-1D9E-907A-92DB-CF33E3F89BF2}|PeopleDeskHrm.UnitTest\\PeopleDeskHrm.UnitTest.csproj|solutionrelative:peopledeskhrm.unittest\\peopledeskhrm.unittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B9FB92-E499-9465-2C23-26EBA1D5FB60}|PeopleDeskHrm.Domain\\PeopleDeskHrm.Domain.csproj|d:\\own practice\\new folder\\peopledeskhrm\\peopledeskhrm.domain\\peopledeskhrm.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B6B9FB92-E499-9465-2C23-26EBA1D5FB60}|PeopleDeskHrm.Domain\\PeopleDeskHrm.Domain.csproj|solutionrelative:peopledeskhrm.domain\\peopledeskhrm.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8734CD-6142-9641-A501-04475F5EDB15}|PeopleDeskHrm.Application\\PeopleDeskHrm.Application.csproj|d:\\own practice\\new folder\\peopledeskhrm\\peopledeskhrm.application\\peopledeskhrm.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5A8734CD-6142-9641-A501-04475F5EDB15}|PeopleDeskHrm.Application\\PeopleDeskHrm.Application.csproj|solutionrelative:peopledeskhrm.application\\peopledeskhrm.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PeopleDeskHrm.UnitTest",
+              "DocumentMoniker": "D:\\Own Practice\\New folder\\PeopleDeskHrm\\PeopleDeskHrm.UnitTest\\PeopleDeskHrm.UnitTest.csproj",
+              "RelativeDocumentMoniker": "PeopleDeskHrm.UnitTest\\PeopleDeskHrm.UnitTest.csproj",
+              "ToolTip": "D:\\Own Practice\\New folder\\PeopleDeskHrm\\PeopleDeskHrm.UnitTest\\PeopleDeskHrm.UnitTest.csproj",
+              "RelativeToolTip": "PeopleDeskHrm.UnitTest\\PeopleDeskHrm.UnitTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-16T03:11:24.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PeopleDeskHrm.Domain",
+              "DocumentMoniker": "D:\\Own Practice\\New folder\\PeopleDeskHrm\\PeopleDeskHrm.Domain\\PeopleDeskHrm.Domain.csproj",
+              "RelativeDocumentMoniker": "PeopleDeskHrm.Domain\\PeopleDeskHrm.Domain.csproj",
+              "ToolTip": "D:\\Own Practice\\New folder\\PeopleDeskHrm\\PeopleDeskHrm.Domain\\PeopleDeskHrm.Domain.csproj",
+              "RelativeToolTip": "PeopleDeskHrm.Domain\\PeopleDeskHrm.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-16T03:03:43.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PeopleDeskHrm.Application",
+              "DocumentMoniker": "D:\\Own Practice\\New folder\\PeopleDeskHrm\\PeopleDeskHrm.Application\\PeopleDeskHrm.Application.csproj",
+              "RelativeDocumentMoniker": "PeopleDeskHrm.Application\\PeopleDeskHrm.Application.csproj",
+              "ToolTip": "D:\\Own Practice\\New folder\\PeopleDeskHrm\\PeopleDeskHrm.Application\\PeopleDeskHrm.Application.csproj",
+              "RelativeToolTip": "PeopleDeskHrm.Application\\PeopleDeskHrm.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-16T03:03:37.258Z",
+              "EditorCaption": ""
             }
           ]
         }
