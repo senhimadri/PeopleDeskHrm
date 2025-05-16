@@ -1,0 +1,15 @@
+D:\Own Practice\New folder\PeopleDeskHrm\PeopleDeskHrm.Application\bin\Debug\net8.0\PeopleDeskHrm.Application.deps.json
+D:\Own Practice\New folder\PeopleDeskHrm\PeopleDeskHrm.Application\bin\Debug\net8.0\PeopleDeskHrm.Application.dll
+D:\Own Practice\New folder\PeopleDeskHrm\PeopleDeskHrm.Application\bin\Debug\net8.0\PeopleDeskHrm.Application.pdb
+D:\Own Practice\New folder\PeopleDeskHrm\PeopleDeskHrm.Application\bin\Debug\net8.0\PeopleDeskHrm.Domain.dll
+D:\Own Practice\New folder\PeopleDeskHrm\PeopleDeskHrm.Application\bin\Debug\net8.0\PeopleDeskHrm.Domain.pdb
+D:\Own Practice\New folder\PeopleDeskHrm\PeopleDeskHrm.Application\obj\Debug\net8.0\PeopleDeskHrm.Application.csproj.AssemblyReference.cache
+D:\Own Practice\New folder\PeopleDeskHrm\PeopleDeskHrm.Application\obj\Debug\net8.0\PeopleDeskHrm.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Own Practice\New folder\PeopleDeskHrm\PeopleDeskHrm.Application\obj\Debug\net8.0\PeopleDeskHrm.Application.AssemblyInfoInputs.cache
+D:\Own Practice\New folder\PeopleDeskHrm\PeopleDeskHrm.Application\obj\Debug\net8.0\PeopleDeskHrm.Application.AssemblyInfo.cs
+D:\Own Practice\New folder\PeopleDeskHrm\PeopleDeskHrm.Application\obj\Debug\net8.0\PeopleDeskHrm.Application.csproj.CoreCompileInputs.cache
+D:\Own Practice\New folder\PeopleDeskHrm\PeopleDeskHrm.Application\obj\Debug\net8.0\PeopleDe.DBF3EA72.Up2Date
+D:\Own Practice\New folder\PeopleDeskHrm\PeopleDeskHrm.Application\obj\Debug\net8.0\PeopleDeskHrm.Application.dll
+D:\Own Practice\New folder\PeopleDeskHrm\PeopleDeskHrm.Application\obj\Debug\net8.0\refint\PeopleDeskHrm.Application.dll
+D:\Own Practice\New folder\PeopleDeskHrm\PeopleDeskHrm.Application\obj\Debug\net8.0\PeopleDeskHrm.Application.pdb
+D:\Own Practice\New folder\PeopleDeskHrm\PeopleDeskHrm.Application\obj\Debug\net8.0\ref\PeopleDeskHrm.Application.dll

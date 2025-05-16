@@ -1,0 +1,17 @@
+D:\Own Practice\New folder\PeopleDeskHrm\PeopleDeskHrm.Persistence\bin\Debug\net8.0\PeopleDeskHrm.Persistence.deps.json
+D:\Own Practice\New folder\PeopleDeskHrm\PeopleDeskHrm.Persistence\bin\Debug\net8.0\PeopleDeskHrm.Persistence.dll
+D:\Own Practice\New folder\PeopleDeskHrm\PeopleDeskHrm.Persistence\bin\Debug\net8.0\PeopleDeskHrm.Persistence.pdb
+D:\Own Practice\New folder\PeopleDeskHrm\PeopleDeskHrm.Persistence\bin\Debug\net8.0\PeopleDeskHrm.Application.dll
+D:\Own Practice\New folder\PeopleDeskHrm\PeopleDeskHrm.Persistence\bin\Debug\net8.0\PeopleDeskHrm.Domain.dll
+D:\Own Practice\New folder\PeopleDeskHrm\PeopleDeskHrm.Persistence\bin\Debug\net8.0\PeopleDeskHrm.Application.pdb
+D:\Own Practice\New folder\PeopleDeskHrm\PeopleDeskHrm.Persistence\bin\Debug\net8.0\PeopleDeskHrm.Domain.pdb
+D:\Own Practice\New folder\PeopleDeskHrm\PeopleDeskHrm.Persistence\obj\Debug\net8.0\PeopleDeskHrm.Persistence.csproj.AssemblyReference.cache
+D:\Own Practice\New folder\PeopleDeskHrm\PeopleDeskHrm.Persistence\obj\Debug\net8.0\PeopleDeskHrm.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Own Practice\New folder\PeopleDeskHrm\PeopleDeskHrm.Persistence\obj\Debug\net8.0\PeopleDeskHrm.Persistence.AssemblyInfoInputs.cache
+D:\Own Practice\New folder\PeopleDeskHrm\PeopleDeskHrm.Persistence\obj\Debug\net8.0\PeopleDeskHrm.Persistence.AssemblyInfo.cs
+D:\Own Practice\New folder\PeopleDeskHrm\PeopleDeskHrm.Persistence\obj\Debug\net8.0\PeopleDeskHrm.Persistence.csproj.CoreCompileInputs.cache
+D:\Own Practice\New folder\PeopleDeskHrm\PeopleDeskHrm.Persistence\obj\Debug\net8.0\PeopleDe.02D6E594.Up2Date
+D:\Own Practice\New folder\PeopleDeskHrm\PeopleDeskHrm.Persistence\obj\Debug\net8.0\PeopleDeskHrm.Persistence.dll
+D:\Own Practice\New folder\PeopleDeskHrm\PeopleDeskHrm.Persistence\obj\Debug\net8.0\refint\PeopleDeskHrm.Persistence.dll
+D:\Own Practice\New folder\PeopleDeskHrm\PeopleDeskHrm.Persistence\obj\Debug\net8.0\PeopleDeskHrm.Persistence.pdb
+D:\Own Practice\New folder\PeopleDeskHrm\PeopleDeskHrm.Persistence\obj\Debug\net8.0\ref\PeopleDeskHrm.Persistence.dll
